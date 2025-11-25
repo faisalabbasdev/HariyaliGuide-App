@@ -1,0 +1,9 @@
+{
+  "name": "HariyaliGuide",
+  "description": "AI-powered Farm Assistant for crop disease diagnosis and weather tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
